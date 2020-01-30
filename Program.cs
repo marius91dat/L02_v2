@@ -10,6 +10,7 @@ namespace L02_v2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hej folkens");
         }
     }
 }
